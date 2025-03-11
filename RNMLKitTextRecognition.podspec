@@ -26,7 +26,5 @@ Pod::Spec.new do |s|
 	s.dependency 'GoogleMLKit/TextRecognitionDevanagari', '>= 6.0.0'
 	s.dependency 'GoogleMLKit/TextRecognitionJapanese', '>= 6.0.0'
 	s.dependency 'GoogleMLKit/TextRecognitionKorean', '>= 6.0.0'
-	s.dependency 'GoogleDataTransport', '~> 10.0'
-	s.dependency 'MLKitCommon', '~> 11.0'
 end
 
